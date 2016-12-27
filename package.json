@@ -1,0 +1,14 @@
+{
+  "name": "webpack-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server ./index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "1.14.0",
+    "webpack-dev-server": "1.16.2"
+  }
+}
